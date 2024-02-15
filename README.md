@@ -12,7 +12,7 @@
 
 Uma breve landing page para divulgação e captura de clientes para o software em questão.
 
-<a href="https://techfixinformatica.com.br/">Veja Aqui</a>
+<a href="https://land.techfixbr.com/">Veja Aqui</a>
 
 ### 📄 O que foi usado:
 
